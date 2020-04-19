@@ -1,0 +1,124 @@
+
+
+
+SECTION – 1 RELATIONAL, LOGICAL, AND SPECIAL OPERATOR
+
+
+
+1Q) Find the names, numbers, job and departments of all clerks
+
+
+
+
+2Q) Find the employees whose commission is greater than their salary.
+
+
+
+
+3Q)Find the employees whose salary is between 1000 and 2000.
+
+
+
+
+
+4Q))Find all employees who have one of three MGR numbers MGR numbers (7902, 75600, 7788).
+
+
+
+
+5Q)Find all the employees whose name starts with an S.
+
+
+
+
+6Q)Find all employees who have a name exactly 4 characters in length.
+
+
+
+7Q)Find all the employees whose salary is not between the range 1000 and 2000
+
+
+
+
+8Q)Find the employees whose job does not start with M.
+
+
+
+9Q)Find all employees who have a manager (MGR).
+
+
+
+
+10Q)Find all clerks who earn between 1000 and 2000
+
+
+
+11Q)Find all employees who are managers with salaries over $1500 and all salesmen
+
+
+
+
+12Q)Find all employees who are managers or salesman and earn more than $1500.
+
+
+
+
+13Q)Find all the managers in any department, and all the clerks in department 10 only
+
+
+
+
+14Q)Select all information from SALGRADE table
+
+
+
+
+15Q)Select all information from the EMP table
+
+
+
+
+
+16Q)List department numbers and names in department name order
+
+
+
+17Q)Display all different job types
+
+
+18Q)List the details of the employees in departments 10 and 20 in alphabetical order of name.
+
+
+
+
+19Q)List names and jobs of all clerks in department 20.
+
+
+
+20Q)Display all employees names which have th or ll them.
+
+
+
+
+21Q)Display name and total remuneration for all employees
+
+
+
+
+22Q)Display all employees who were hired during 1983
+
+
+
+
+23Q)Display name, annual salary and commission of all sales people whose monthly salary is greater than their commission. The output should be ordered by salary, highest salary first. If two or more employees have the same salary sort by employee name, within the highest salary order
+
+
+
+
+24Q)Display all employee names and their department name, in department name order.
+
+
+
+
+25Q)Display all employee names, department number and name
+

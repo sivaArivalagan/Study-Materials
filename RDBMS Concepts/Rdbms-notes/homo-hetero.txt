@@ -1,0 +1,14 @@
+Homogenous..
+
+- all sites have identical software
+- are aware of each other and agree to
+  cooperate in processing user requests.
+
+
+Heterogenous
+- different sites may use different schemas
+  and software.
+- difference in schema is a major problem
+  for querry processing
+- difference in software is a major problem
+  for transaction processing.

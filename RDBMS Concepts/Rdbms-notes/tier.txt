@@ -1,0 +1,19 @@
+two tier:
+--   ---
+cl   serv  
+--   --
+thre tier:
+--  --  ---
+cl  AS  serv  
+--  --  --
+
+4 tier:
+--  --  --  ---
+cl  Ws  AS  serv  
+--  --  --  --
+
+proxy server:
+
+--  -- --  --  ---
+cl  PS Ws  AS  serv  
+--  -- --  --

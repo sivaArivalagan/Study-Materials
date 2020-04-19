@@ -1,0 +1,14 @@
+declare
+i number(2):=1; 
+v_eno emp.empno%type;
+v_ename emp.ename%type;
+begin
+loop
+v_eno:=&eno;
+select ename into v_ename from emp where empno=v_eno;
+dbms_output.put_line('employee name is '||v_ename);
+i:=i+1;
+exit when i>4;
+end loop;
+end;
+/

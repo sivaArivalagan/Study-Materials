@@ -1,0 +1,32 @@
+------------------------------------------
+ER diagram.
+------------------------------------------
+Purpose:
+--------------------------------------------
+An E-R Diagram shows a database’s entities
+and the relationships among the entities in a
+symbolic, visual way.
+--------------------------------------------
+Definition
+---------------------------------------------
+The E-R model is a detailed, logical representation of the data for an organisation or business area entity
+--------------------------------------------
+Topics:
+--------------------------------------------
+entity type
+entity instance
+attribute
+strong entity
+weak entity
+multivalued attributes
+derived attributes
+Relationships.
+  Unary (one to one, one to many, many to many)
+  Binary(one to one, one to many, many to many)
+  Ternary
+
+cardinality constraint;
+
+  Total participation
+  Partial participation
+--------------------------------------------

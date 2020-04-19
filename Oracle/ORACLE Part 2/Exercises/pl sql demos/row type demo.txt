@@ -1,0 +1,8 @@
+declare
+v_empno emp.empno%type:=&empno;
+emp_rec emp%rowtype;
+begin
+select * into emp_rec from emp where empno=v_empno;
+dbms_output.put_line('The name of employee is'||'  '||emp_rec.ename||'  and his job is'||'  '||emp_rec.job);
+end;
+/

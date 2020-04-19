@@ -1,0 +1,9 @@
+declare
+vsal emp.sal%type;
+eno emp.empno%type:=&eno;
+begin
+pack952.ret_name(eno);
+vsal:=pack952.ret_sal(eno);
+dbms_output.put_line('the salary of employee is'||'  '||vsal);
+end;
+/

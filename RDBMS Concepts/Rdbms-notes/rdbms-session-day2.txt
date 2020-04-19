@@ -1,0 +1,69 @@
+------------------------------------------
+slide 2:
+storage definition language (SDL) and view definition language (VDL)
+------------------------------------------
+slide 5:
+full notes
+embedding sql into other languagues
+SQLJ - java.
+JDBC - for java
+ODBC - open database connectivity -for other               programming languages
+pl/sql - procedural language - into this
+we can embed sql statement
+
+-------------------------------------------
+slide 7: 
+full notes
+sqlplus: The client software through which you can connect to server
+menu/screens can be designed for running your
+application.
+
+-------------------------------------------
+slide 9: 
+full notes
+these are the tools that are avilaibe 
+to build the application
+power builder -like VB
+jbuilder for borland c++ 
+jdeveloper - for oracle (10g - version)
+-------------------------------------------
+slide 20: 
+homogeneous
+hetrogenous
+federated
+distributed - application is distributed 
+over various server
+
+
+-------------------------------------------
+slide 21: 
+full notes
+mysql- is a database like oracle, on unix from 
+ibm
+
+--------------------------------------------
+slide 35: 
+Ad hoc query capability with SQL (4GL is added)
+Powerful database management system
+3gL - 3rd generation langugage:structured programming - c,
+4gL - 4th Generation language - object oriented
+------------------------------------------------
+-------------------------------------------
+slide 38: 
+full notes
+verant - just like oracle this also object oriented 
+language.
+smalltalk -is object oriented programiing langague
+orion- application server - java feature.
+IRIS - MAC machine - software that convert paper documents to editable docments
+
+--------------------------------------------
+-------------------------------------------
+slide 39: 
+full notes
+INFORMIX - RDBMS developed by informix like oracle
+oracle latest - 12I
+sql99 - they are the standards. All the databases 
+are following standard.
+---------------------------------------------
+	

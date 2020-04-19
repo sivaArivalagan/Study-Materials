@@ -1,0 +1,35 @@
+--------------------------------------------
+CREATE TABLE  EMPLOYEE
+
+( EMP_NO	CHAR(10)	NOT NULL,
+EMP_STATUS	CHAR(01)	NOT NULL,
+EMP_NAME	CHAR(20)	NOT NULL,
+EMP_ADDRESS	CHAR(40)	NOT NULL,
+
+PRIMARY KEY (EMP_NO));
+--------------------------------------------
+ALTER EMPLOYEE
+ADD JOINING_DATE DATE;
+--------------------------------------------
+DROP TABLE EMPLOYEE;
+--------------------------------------------
+sELECT:
+
+SELECT EMP_NO,EMP_NAME,EMP_JOIN_DATE,EMP_SAL  
+          FROM     EMP_TBL
+          WHERE    EMP_NO = 1234;
+
+--------------------------------------------
+INSERT:
+
+INSERT INTO EMP_TBL (EMP_NO,EMP_NAME,EMP_JOIN_DATE,EMP_SAL)
+          VALUES ('E6','RAMESH','20061212','10000')
+
+---------------------------------------------------- 
+UPDATE EMP_TBL                 
+         SET EMP_SAL  =3000
+         WHERE EMP_NO =1234
+----------------------------------------------------
+DELETE FROM EMP_TBL                 
+         WHERE EMP_NO =1234
+----------------------------------------------------

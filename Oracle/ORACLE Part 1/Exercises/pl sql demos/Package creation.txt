@@ -1,0 +1,15 @@
+create or replace package body pack952 is
+procedure ret_name(eno IN number) is
+v_ename emp.ename%type;
+begin
+select ename into v_ename from emp where empno=eno;
+dbms_output.put_line('the name of employee is '||'  '||v_ename);
+end ret_name;
+function ret_sal(eno IN number) return number is
+v_sal emp.sal%type;
+begin
+select sal into v_sal from emp where empno=eno;
+return v_sal;
+end ret_sal;
+end pack952;
+/

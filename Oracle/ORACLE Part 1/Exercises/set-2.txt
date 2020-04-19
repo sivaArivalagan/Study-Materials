@@ -1,0 +1,56 @@
+
+A
+
+SECTION – 2 JOINS
+
+
+26) Display the name, location and department of employee whose salary is more than 1500 a month
+
+
+
+
+27) Produce a list showing employees salary grades
+
+
+
+28)Show only employees on GRADE 3.
+
+
+
+
+
+29)Show all employees in Dallas
+
+
+
+
+
+30)List the employee name, job, salary, grade and department name for everyone in the
+   company except clerks. Sort on salary, displaying the highest salary first
+
+
+
+
+
+31)List the name, job, salary, grade, department for employees who earn $36000 a year or are clerks.
+
+
+
+
+
+32)Display the department that has no employees
+
+
+
+33)List all employees by name and number along with their manager’s number
+
+
+
+
+34)Find the job that was filled in the first half of 1983, and the same job that was filled during the same period in 1984
+
+
+
+
+35. Find all employees who joined the company before their manager.
+

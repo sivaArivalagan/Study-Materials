@@ -1,0 +1,93 @@
+
+
+
+
+SECTION – 3 SUBQUERIES
+
+36)Find the minimum salary
+
+
+
+
+
+37)Find the employee who earns the minimum salary
+
+
+
+
+38)Find all the employees who have the same job as BLAKE
+
+3
+
+
+
+39)Find the employees who earn the lowest salary in each department.
+
+
+
+40)Find those employees who earn the lowest salary in their department
+
+
+
+41)Display employees who earn more than the lowest salary in department 30.
+
+
+
+
+42)Display the departments which have an average salary bill greater than department 30.
+
+
+
+
+43)Find the job with the highest average salary
+
+
+
+44)Display the name, job, and hiredate for employee; whose salary is greatest the highest salary in any sales department
+
+
+45)Find employees who have at least one person reporting to them.
+
+
+
+
+46)Find all employees whose department is not in the DEPT table.
+
+
+
+47)Find the employees who do not manage anyone.
+
+
+
+48)Find the employees who earn the highest salary in each job type. Sort in descending salary order.
+
+
+
+49)Find the employees who earn the minimum salary for their job. Display the result in ascending order of salary
+
+
+
+50)Find the most recently hired employees in each department order by hiredate.
+
+
+
+
+
+51)Show the following details for any employee who earns a salary greater than the average salary for their department. Sort in department number
+
+
+
+52)List all the departments where there are no employees
+
+
+
+
+53)Who are the top 3 earners in the company? Display their name and salary
+
+
+
+54)In which year did most people join the company? Display the year, number of employees.
+
+
+
+55)Display the following information for the department with the HIGEST annual remuneration bill.

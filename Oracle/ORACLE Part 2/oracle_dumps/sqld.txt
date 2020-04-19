@@ -1,0 +1,423 @@
+
+
+
+1)User defined exceptions are handled in
+
+a)Declaration section
+
+b)Executable section
+
+c)Exception section
+
+
+
+2)decode syntax
+
+
+
+3)If the current date is 17th July 2000 ,Monday then output of  select SYSD=
+ATE,TO_CHAR((sysdate,'DD-MON-YY') is
+
+a)17-MON-00
+
+b)10-Mon-00
+
+
+
+4)How to match descendant nodes in xslt?
+
+a)/
+
+b)//
+
+c)..
+
+d).
+
+
+
+5)to represent attributes
+
+a)#
+
+b)@
+
+c)$
+
+d)*
+
+
+
+6)What is d difference between char ,varchar2?
+
+a)size b)storage c)size and storage d)character set
+
+
+
+
+
+7)Diff btwn vachar2 n nvarchar2?
+
+a)size b)storage c)size and storage d)character set
+
+
+
+8)Wat is the result if value is added to null?
+
+a)null
+
+b)value itself
+
+c)none
+
+
+
+9)About storage procedure
+
+
+
+10)Storage procedure are functns,procedures
+
+
+
+11)How to match descendant nodes in xslt?
+
+a)/
+
+b)//
+
+c)..
+
+d).
+
+
+
+12)Xml parsers normally parse al text except?
+
+
+
+13)Decode syntax-decode(value,if1,then1,if2,then2)
+
+
+
+14)In which section user defined exception trapped?
+
+a)declaration section
+
+b)executable section
+
+c)exception section
+
+
+
+15)Entity definitions appear in a)dtd b)xml c)xsl d)both
+
+
+
+16)Size of char?
+
+a)1 byte
+
+b)2000 bytes
+
+c)4000 bytes
+
+
+
+17)Size of varchar2?
+
+a)1 byte
+
+b)2000 bytes
+
+c)4000 bytes
+
+
+
+18)commit and rollback comes under
+
+a)DCL
+
+b)DDL
+
+c)DML
+
+d)none
+
+
+
+19)what is the output of
+
+select empno,sal from emp order by sal where sal>=3D1000;
+
+
+
+20)what is to be used to find the maximum value in a row
+
+a)MAX
+
+b)GREATEST
+
+c)LARGE
+
+d)none
+
+
+
+21)select INSTR('BACDEFGHRAF','A',1,2) from dual;
+
+a)2
+
+b)10
+
+c)6
+
+d)none
+
+
+
+22) drop function get_email_id is the answer for one question..
+
+
+
+23)Proceedures and functions use _____ to communicate with each other in th=
+e calling environment(didn't remember exactly)
+
+a)arguments
+
+b)formal variables
+
+c)local variables
+
+
+
+24)When an updation is performed on a table what is the output for SQL%ROWC=
+OUNT
+
+a)numeric value of how many rows updated
+
+b)character value of how many rows updated
+
+c)date value of how many rows updated
+
+d)byte value of how many rows updated
+
+
+
+25)Which of the following is not correct
+
+a)sql is not case sensitive
+
+b)Arithemetic operators can be in any clause
+
+c)sql statements can be written in multiple lines
+
+d)we cannot split keywords in sql
+
+
+
+26)which indicates occurance of one or more times
+
+a)<xml ver..................................?>
+
+b)<xml ver..................................+>
+
+c)<xml ver..................................*>
+
+
+
+
+
+1.which of the following is used to share a procedure with other users:
+
+a. RUN
+
+b. execute
+
+c. call
+
+d. all
+
+
+
+2.how to declare a private procedure?
+
+a. it is declared in the specification
+
+b. it is defined in the package body
+
+c. it is declared in specification but not defined in package body
+
+d. it is not declared in specification but defined in body
+
+
+
+3.which is used in xslt  to refer the descendants?
+
+a. /
+
+b. //
+
+c. .
+
+d. ..
+
+
+
+4.what is the o/p when  anything is assigned to null?
+
+a. none
+
+b. null
+
+c. 0
+
+d. cant say
+
+
+
+5. which of the following is wrong declaration in xml?
+
+a. <table>
+
+b. <1table>
+
+c. both
+
+
+
+6. which is true about a procedure?
+
+a. it uses the "declare" to define the formal parameters
+
+b. it is compulsory for a procedure to have atleast one executable stmt.
+
+
+
+7. (condition+, dept?,price)
+
+a. this takes one or more condition
+
+b. takes atmost one dept
+
+c. takes a single price
+
+d. all the above
+
+
+
+8.which of the following requires an immediate lock on executing it:
+
+a. update row
+
+b. update
+
+c. update row and col
+
+
+
+9. 3 questions in differences b/w -char and varchar, nvarchar and varchar e=
+tc
+
+
+
+10.  what is the output of: lpad((rpad(oracle,10,'*')),15,'*')
+
+
+
+11. what happens when we define a user exception and do not raise it explic=
+itly?
+
+
+
+12. commit and rollback affect:
+
+a. dml commands
+
+b. dcl commands
+
+c. ddl commands
+
+d. all
+
+
+
+13. questions on the syntaxes of cursors, procedures and joins ***
+
+
+
+14. what does NUMBER(4,2) represent?
+
+
+
+15. size of char datatype?
+
+
+
+16. which of the following is used on "date"?
+
+a. addition, subtraction
+
+b. addition
+
+c. subtraction
+
+d. none
+
+
+
+17. which of the following are the stored sub programs?
+
+a. packages
+
+b. functions.
+
+c. procedures
+
+d.all
+
+
+
+18. How to delete a function?
+
+
+
+19. questions on sysdate(nextday, lastday, months between etc)
+
+
+
+20. questions on if-else, order by
+
+
+
+21. 2 questions on syntax and implementation of "decode"
+
+
+
+
+
+Diff btwn char and varchar2?
+
+Diff btwn vachar2 n nvarchar2?
+
+Wat is the result if value is added to null?ans:null
+
+About storage procedure
+
+Storage procedure are functns,procedures
+
+How to match descendant nodes in xslt?ans:/
+
+Xml parsers normally parse al text except?
+
+Decode syntax-decode(value,if1,then1,if2,then2)
+
+In which section user defined exception trapped?ans:execution
+
+Entity definitions appear in a)dtd b)xml c)xsl d)both
+
+Size of char? 1byte
+
+Size of varchar2? 2000bytes
+
+
